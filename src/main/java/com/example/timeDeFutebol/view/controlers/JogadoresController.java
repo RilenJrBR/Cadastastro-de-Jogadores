@@ -19,7 +19,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/api/jogador")
-public class PrimeiroController {
+public class JogadoresController {
     
     @Autowired
     private JogadorServices servico;
