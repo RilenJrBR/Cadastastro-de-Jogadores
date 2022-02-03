@@ -1,4 +1,4 @@
-package com.example.timeDeFutebol.controlers;
+package com.example.timeDeFutebol.view.controlers;
 
 import java.util.List;
 
